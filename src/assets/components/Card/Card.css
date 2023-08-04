@@ -1,0 +1,10 @@
+/* CardComponent.css */
+
+.custom-card {
+transition: transform 0.3s; /* Add a transition effect to the transform property */
+}
+
+.custom-card:hover {
+transform: scale(1.05); /* Scale up the card slightly when the mouse is hovered over */
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Add a box shadow to create depth */
+}

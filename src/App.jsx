@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import Header from './assets/components/Header/Header.jsx';
 import Home from './assets/components/Home/Home.jsx';
 import CardComponent from './assets/components/Card/Card.jsx';

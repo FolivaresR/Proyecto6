@@ -8,15 +8,15 @@ const ContactSection = () => {
       <ul>
         <li>
           <strong>Correo electrónico:</strong>{' '}
-          <a href="mailto:tu_correo@gmail.com">luisolivares.r717@gmail.com</a>
+          <a href="mailto:tu_correo@gmail.com">faolivaresrojas@gmail.com</a>
         </li>
         <li>
           <strong>WhatsApp:</strong>{' '}
-          <a href="https://wa.me/1234567890">+56956087515</a>
+          <a href="https://wa.me/1234567890">+56930000090</a>
         </li>
         <li>
           <strong>LinkedIn:</strong>{' '}
-          <a href="https://www.linkedin.com/in/tu_perfil" target="_blank" rel="noopener noreferrer">Tu Perfil de LinkedIn</a>
+          <a href="https://www.linkedin.com/in/fernando-andres-olivares-rojas-371b5226a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </li>
       </ul>
     </div>

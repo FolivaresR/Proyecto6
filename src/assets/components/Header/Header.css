@@ -1,0 +1,25 @@
+/* Header.css */
+.navbar {
+justify-content: flex-end; /* Alinea los elementos al lado derecho */
+}
+
+.navbar-brand {
+color: white;
+padding: 0;
+font-size: 1rem;
+line-height: 1.2;
+}
+
+.navbar-brand:hover {
+transform: scale(1.1); /* Escala ligeramente el título al pasar el mouse por encima */
+}
+
+.navbar-nav .nav-link {
+color:white; /* Color del texto por defecto */
+}
+
+
+
+.navbar-nav .nav-link:hover {
+color: red; /* Cambia el color del texto al pasar el mouse por encima */
+}

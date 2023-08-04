@@ -1,0 +1,23 @@
+/* Estilo para la lista horizontal */
+.horizontal-list {
+display: flex;
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+/* Estilo para cada elemento de la lista */
+.horizontal-list li {
+margin-right: 20px; /* Espacio entre elementos (puedes ajustarlo según tus preferencias) */
+}
+
+/* Opcionalmente, si deseas eliminar el subrayado predeterminado de los enlaces */
+.horizontal-list li a {
+text-decoration: none;
+}
+
+.text-center {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
