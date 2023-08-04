@@ -6,7 +6,7 @@ const Home = () => {
       <div className="row">
         <div className="col-md-6">
           <img
-            src="https://img.freepik.com/foto-gratis/retrato-joven-sonriente-gafas_171337-4842.jpg"
+            src="https://gfycat.com/blandhollowflyingfish"
             alt="Imagen de inicio"
             className="img-fluid"
           />
