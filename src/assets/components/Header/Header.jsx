@@ -16,7 +16,7 @@ function Header() {
                 className="d-inline-block align-top"
                 alt="React Bootstrap logo"
             /></Navbar.Brand>
-        <Navbar.Brand href="#home">Luis Olivares <br />Full Stack</Navbar.Brand>
+        <Navbar.Brand href="#home">Fernando Olivares <br />Full Stack Developer</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
