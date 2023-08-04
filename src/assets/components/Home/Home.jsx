@@ -6,7 +6,7 @@ const Home = () => {
       <div className="row">
         <div className="col-md-6">
           <img
-            src="https://gfycat.com/blandhollowflyingfish"
+            src="programador.jpg"
             alt="Imagen de inicio"
             className="img-fluid"
           />
