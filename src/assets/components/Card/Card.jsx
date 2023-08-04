@@ -19,19 +19,19 @@ const CardComponent = () => {
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="src/assets/img/CRUD.png" />
+            <Card.Img variant="top" src="CRUD.png" />
             <Card.Body>
                 <Card.Title>CRUD</Card.Title>
                 <Card.Text>
                 Aplicacion desarrollada con html5 css3 y javascript, guardando datos en localstorage.
                 </Card.Text>
-                <Button variant="primary" href="https://luisol2022.github.io/ProyectoUdd2/" target='_blank'>Ir</Button>
+                <Button variant="primary" href="https://github.com/FolivaresR" target='_blank'>Ir</Button>
             </Card.Body>
             </Card>
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="src/assets/img/Dashboard.png" />
+            <Card.Img variant="top" src="Dashboard.png" />
             <Card.Body>
                 <Card.Title>Dashboard</Card.Title>
                 <Card.Text>
@@ -43,7 +43,7 @@ const CardComponent = () => {
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="src/assets/img/completo.png" />
+            <Card.Img variant="top" src="completo.png" />
             <Card.Body>
                 <Card.Title>Restaurant App</Card.Title>
                 <Card.Text>
