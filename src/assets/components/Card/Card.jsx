@@ -7,25 +7,25 @@ const CardComponent = () => {
         <div className="row">
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="isibaby.png" />
+            <Card.Img variant="top" src="Tutelocompraste.jpg" />
             <Card.Body>
-                <Card.Title>ISSIBABY</Card.Title>
+                <Card.Title>Tutelocompraste</Card.Title>
                 <Card.Text>
                 Pagina web estatica. Realizada con html5 y css3 nativo.
                 </Card.Text>
-                <Button variant="primary" href="https://luisol2022.github.io/proyectoudd01/" target='_blank'>Ir</Button>
+                <Button variant="primary" href="https://folivaresr.github.io/ProyectoUdd1/" target='_blank'>Ir</Button>
             </Card.Body>
             </Card>
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="CRUD.png" />
+            <Card.Img variant="top" src="CRUDLOCAL.jpg" />
             <Card.Body>
                 <Card.Title>CRUD</Card.Title>
                 <Card.Text>
                 Aplicacion desarrollada con html5 css3 y javascript, guardando datos en localstorage.
                 </Card.Text>
-                <Button variant="primary" href="https://github.com/FolivaresR" target='_blank'>Ir</Button>
+                <Button variant="primary" href="https://folivaresr.github.io/proyecto2/" target='_blank'>Ir</Button>
             </Card.Body>
             </Card>
         </div>
@@ -37,19 +37,19 @@ const CardComponent = () => {
                 <Card.Text>
                 Se presentan datos en una interfaz llamados desde una API.
                 </Card.Text>
-                <Button variant="primary" href="https://luisol2022.github.io/Proyecto_UDD_3/" target='_blank'>Ir</Button>
+                <Button variant="primary" href="https://folivaresr.github.io/proyecto3UDD/" target='_blank'>Ir</Button>
             </Card.Body>
             </Card>
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="completo.png" />
+            <Card.Img variant="top" src="RESTAURANTE.jpg" />
             <Card.Body>
                 <Card.Title>Restaurant App</Card.Title>
                 <Card.Text>
                 Aplicacion Web creada con react vite, con una base de datos en firestore.
                 </Card.Text>
-                <Button variant="primary" href="https://proyecto4-udd.onrender.com" target='_blank'>Ir</Button>
+                <Button variant="primary" href="https://proyecto4udd.onrender.com" target='_blank'>Ir</Button>
             </Card.Body>
             </Card>
         </div>
