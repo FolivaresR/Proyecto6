@@ -7,7 +7,7 @@ const CardComponent = () => {
         <div className="row">
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="public/isibaby.png" />
+            <Card.Img variant="top" src="isibaby.png" />
             <Card.Body>
                 <Card.Title>ISSIBABY</Card.Title>
                 <Card.Text>
