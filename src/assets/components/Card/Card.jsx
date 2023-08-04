@@ -7,7 +7,7 @@ const CardComponent = () => {
         <div className="row">
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="Tutelocompraste.jpg" />
+            <Card.Img variant="top" src="Tutelocompraste.JPG" />
             <Card.Body>
                 <Card.Title>Tutelocompraste</Card.Title>
                 <Card.Text>
@@ -19,7 +19,7 @@ const CardComponent = () => {
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="CRUDLOCAL.jpg" />
+            <Card.Img variant="top" src="CRUDLOCAL.JPG" />
             <Card.Body>
                 <Card.Title>CRUD</Card.Title>
                 <Card.Text>
@@ -43,7 +43,7 @@ const CardComponent = () => {
         </div>
         <div className="col-md-3">
             <Card>
-            <Card.Img variant="top" src="RESTAURANTE.jpg" />
+            <Card.Img variant="top" src="RESTAURANTE.JPG" />
             <Card.Body>
                 <Card.Title>Restaurant App</Card.Title>
                 <Card.Text>
