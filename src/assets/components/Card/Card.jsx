@@ -49,7 +49,7 @@ const CardComponent = () => {
                         <Card.Body>
                             <Card.Title>Restaurant App</Card.Title>
                             <Card.Text>
-                            "Aplicación web potente y rápida construida con React Vite, integrando una base de datos en Firestore para un almacenamiento seguro y escalable de datos.".
+                            Aplicación web potente y rápida construida con React Vite, integrando una base de datos en Firestore para un almacenamiento seguro y escalable de datos.
                             </Card.Text>
                             <Button variant="primary" href="https://proyecto4udd.onrender.com" target='_blank'>Ir</Button>
                         </Card.Body>
