@@ -13,7 +13,7 @@ const CardComponent = () => {
                         <Card.Body>
                             <Card.Title>Tutelocompraste</Card.Title>
                             <Card.Text>
-                                Pagina web estatica. Realizada con html5 y css3 nativo.
+                            Página web que destaca por su elegante diseño y navegación intuitiva, creada con HTML y CSS.
                             </Card.Text>
                             <Button variant="primary" href="https://folivaresr.github.io/ProyectoUdd1/" target='_blank'>Ir</Button>
                         </Card.Body>
@@ -25,7 +25,7 @@ const CardComponent = () => {
                         <Card.Body>
                             <Card.Title>CRUD</Card.Title>
                             <Card.Text>
-                                Aplicacion desarrollada con html5 css3 y javascript, guardando datos en localstorage.
+                            Aplicación web moderna con HTML5, CSS y JavaScript, que aprovecha localstorage para almacenar datos de manera eficiente.
                             </Card.Text>
                             <Button variant="primary" href="https://folivaresr.github.io/proyecto2/" target='_blank'>Ir</Button>
                         </Card.Body>
@@ -37,7 +37,7 @@ const CardComponent = () => {
                         <Card.Body>
                             <Card.Title>Dashboard</Card.Title>
                             <Card.Text>
-                                Se presentan datos en una interfaz llamados desde una API.
+                            Dashboard interactivo que muestra datos actualizados en tiempo real, obtenidos a través de una API externa.
                             </Card.Text>
                             <Button variant="primary" href="https://folivaresr.github.io/proyecto3UDD/" target='_blank'>Ir</Button>
                         </Card.Body>
@@ -49,7 +49,7 @@ const CardComponent = () => {
                         <Card.Body>
                             <Card.Title>Restaurant App</Card.Title>
                             <Card.Text>
-                                Aplicacion Web creada con react vite, con una base de datos en firestore.
+                            "Aplicación web potente y rápida construida con React Vite, integrando una base de datos en Firestore para un almacenamiento seguro y escalable de datos.".
                             </Card.Text>
                             <Button variant="primary" href="https://proyecto4udd.onrender.com" target='_blank'>Ir</Button>
                         </Card.Body>
